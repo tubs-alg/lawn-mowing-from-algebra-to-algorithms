@@ -136,4 +136,4 @@ obj = graph.obj(sol)
 ```
 
 ### References
-[1] Fekete, Sándor P., et al. "[A Closer Cut: Computing Near-Optimal Lawn Mowing Tours.](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977561.ch1)" 2023 Proceedings of the Symposium on Algorithm Engineering and Experiments (ALENEX). Society for Industrial and Applied Mathematics, 2023.
+[1] Sándor P. Fekete, Dominik Krupke, Michael Perk, Christian Rieck, Christian Scheffer "[A Closer Cut: Computing Near-Optimal Lawn Mowing Tours.](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977561.ch1)" 2023 Proceedings of the Symposium on Algorithm Engineering and Experiments (ALENEX). Society for Industrial and Applied Mathematics, 2023.
